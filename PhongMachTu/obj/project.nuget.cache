@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pY/2Ms7MVIxown4O6fIZYhOxTljuGWHbKVk22DiWpdluT6DK26I8ZrObiODB2aNLW/KvOWyvqXVjrUJxkpImxA==",
+  "success": true,
+  "projectFilePath": "D:\\UIT\\2022-2023 Year2\\term2\\SE104.N24.CLC\\CodeToMerge\\SE104_FinalProjects\\PhongMachTu\\PhongMachTu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\docx\\2.4.0\\docx.2.4.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\sautinsoft.document\\2023.4.19\\sautinsoft.document.2023.4.19.nupkg.sha512"
+  ],
+  "logs": []
+}
